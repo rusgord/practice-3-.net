@@ -1,0 +1,14 @@
+E:\2024@II\Net\Practice3\ExcelReportPlugin\bin\Debug\ExcelReportPlugin.dll
+E:\2024@II\Net\Practice3\ExcelReportPlugin\bin\Debug\ExcelReportPlugin.pdb
+E:\2024@II\Net\Practice3\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.csproj.AssemblyReference.cache
+E:\2024@II\Net\Practice3\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.csproj.ResolveComReference.cache
+E:\2024@II\Net\Practice3\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.csproj.CoreCompileInputs.cache
+E:\2024@II\Net\Practice3\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.dll
+E:\2024@II\Net\Practice3\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.pdb
+C:\Users\shkverz\source\repos\Practic3.net\ExcelReportPlugin\bin\Debug\ExcelReportPlugin.dll
+C:\Users\shkverz\source\repos\Practic3.net\ExcelReportPlugin\bin\Debug\ExcelReportPlugin.pdb
+C:\Users\shkverz\source\repos\Practic3.net\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.csproj.AssemblyReference.cache
+C:\Users\shkverz\source\repos\Practic3.net\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.csproj.ResolveComReference.cache
+C:\Users\shkverz\source\repos\Practic3.net\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.csproj.CoreCompileInputs.cache
+C:\Users\shkverz\source\repos\Practic3.net\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.dll
+C:\Users\shkverz\source\repos\Practic3.net\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.pdb
